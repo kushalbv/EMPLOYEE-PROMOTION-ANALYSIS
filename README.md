@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 🧠 Employee Promotion Analysis
 
 This project is a Machine Learning-based web application that predicts whether an employee is eligible for promotion based on multiple organizational factors. Built using Django and integrated with a Gaussian Naive Bayes classifier, the system helps HR professionals make data-driven, unbiased promotion decisions.
