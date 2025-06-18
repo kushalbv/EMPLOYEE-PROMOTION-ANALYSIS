@@ -1,0 +1,10 @@
+Django==4.2
+numpy==1.24.4
+pandas==2.1.0
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+joblib==1.3.2
+djangorestframework==3.14.0  # For REST APIs
+python-dotenv==1.0.0         # For environment variables
+crispy-bootstrap5==0.7       # For enhanced forms UI
