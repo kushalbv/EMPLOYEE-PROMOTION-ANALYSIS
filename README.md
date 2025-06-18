@@ -61,7 +61,7 @@ Dataset Source: [Kaggle - Employee Evaluation for Promotion](https://www.kaggle.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/employee-promotion-analysis.git
+git clone https://github.com/kushalbv/EMPLOYEE-PROMOTION-ANALYSIS
 
 # Change directory
 cd employee-promotion-analysis
