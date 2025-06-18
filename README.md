@@ -52,14 +52,6 @@ Dataset Source: [Kaggle - Employee Evaluation for Promotion](https://www.kaggle.
 
 ---
 
-## 📷 Screenshots
-
-![Home Page](screenshots/home.png)
-![User Prediction](screenshots/predict.png)
-![Admin Dashboard](screenshots/admin_history.png)
-
----
-
 ## 📦 Installation
 
 ```bash
